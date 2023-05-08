@@ -4,3 +4,4 @@ scikit_learn==1.1.1
 seaborn==0.12.2
 streamlit==1.22.0
 streamlit-embedcode==0.1.2
+streamlit-pandas-profiling==0.1.3
